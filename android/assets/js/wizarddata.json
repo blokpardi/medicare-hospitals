@@ -1,0 +1,149 @@
+{
+  "winphone" : {
+    "fullname" : "Windows Phone",
+    "logo" : "img/wp_logo.png",
+    "type" : "puid",
+    "intro" : "<p>If you change the Microsoft account you use to sign in on your phone, here are some of the things you might need to do:</p>",
+    "does" : "You need to sign in with Microsoft account on your Windows Phone to buy apps from the Windows Phone Store",
+    "uses" : [
+      "Re-buy any apps, games, or music you’ve bought in the Windows Phone Store (formerly Marketplace).",
+      "Add all of your music, photos, docs, and other content you added to your phone before.",
+      "Reset your preferences (Start layout, colors, sync settings, Wi-Fi passwords, and so on).",
+      "Connect your new account to any services you’d connected to before, including Facebook, Twitter, LinkedIn, Skype, and so on.",
+      "Let your Messenger friends know that they’ll need to use the new email address to chat with your on your phone.",
+      "Let your Xbox LIVE friends know that they’ll need to use the new email address to play online games with you on your phone.",
+      "Create new backups. You won’t be able to use any backups you created before.",
+      "If you’ve used SkyDrive on the phone before, you’ll need to move everything from that SkyDrive account to your new account if you want to be able to see those things on the phone (and anywhere else you’re signed in).",
+      "If you automatically upload photos and videos to SkyDrive, they’ll now go to the new account."
+    ],
+    "todo" : [
+      "<a class='intext' href='http://dogfood.preview.windowsphone.com/en-us/how-to/wp8/basics/reset-my-phone'>Reset your phone</a> to sign in with the new account.",
+      "Add your accounts, personalize your settings, and rearrange your Start screen.",
+      "If you’ve bought any apps for your Windows Phone, buy them again when you sign in with a new or different account.",
+      "Create a new backup (if you use a Windows Phone 8).",
+      "If you saved any photos, videos, or docs on SkyDrive from your Windows Phone, you’ll need to move them to the SkyDrive account you have with your new Microsoft account.",
+      "Connect your new Microsoft account to your Facebook, Twitter, and LinkedIn accounts so you can use Facebook chat and get your feeds in your People Hub."
+    ]
+  },
+  "xbox" : {
+    "fullname" : "Xbox",
+    "logo" : "img/xbox_logo.png",
+    "type" : "xuid",
+    "intro" : "<p>In some cases, it’s possible to change the Microsoft account you use for your gamertag without losing any information from either account. <a href='#add_xbox' role='button' class='intext showmodal' data-toggle='modal'>Find out more</a>.</p><p>If you change the Microsoft account you use for your gamertag, here are some of the things you might need to do:</p>",
+    "does" : "what a xbox should",
+    "uses" : [
+      "Play games on any device and bring your points, scores, avatar, and more with you.",
+      "Play games online with friends.",
+      "Get movies, TV shows, and sports on your Xbox.",
+      "Use Xbox SmartGlass on your phone to interact with what you’re watching or playing on your Xbox console.",
+      "Rack up points on your Gamerscore.",
+      "Make an avatar.",
+      "Buy Microsoft Points to get videos, music, games, and stuff for your avatar.",
+      "Manage family settings and online safety."
+    ],
+    "todo" : [
+      "Sign in on your Xbox console with your new Microsoft account.",
+      "Create a new gamertag.",
+      "Re-buy anything you’ve bought before that requires an account, including accessories for your avatar, games, items in games, music, movies, and so forth.",
+      "Reset your family and online safety settings.",
+      "Let your Xbox friends know you have a new account."
+    ],
+    "morehelp" : {
+      "text" : "Need help finding the account you use for your gamertag?",
+      "url" : "http://xbox.com"
+    }
+  },
+  "win8" : {
+    "fullname" : "Windows 8",
+    "logo" : "img/win8_logo.png",
+    "type" : "xuid",
+    "does" : "keeps all your music together",
+    "uses" : [
+      "Sign in once to get to any service that uses a Microsoft account on your computer, including SkyDrive, Messenger, OneNote, and Xbox services.",
+      "Get to your content from any device (including a PC, Xbox, Windows Phone, and anywhere with a browser), as long as you’re signed in with your Microsoft account.",
+      "Information from the services you connect to—Hotmail, Messenger, Facebook, Twitter, LinkedIn, and more—appears right inside the Mail, Messaging, and People apps.",
+      "Buy apps in the Windows Store.",
+      "Roam personalized settings and apps from one device  to the next.",
+      "Save your documents to SkyDrive.",
+      "Access and share your photos from any Windows PC."
+    ],
+    "todo" : [
+      "Sign in with the new Microsoft account.",
+      "Re-buy any apps you’ve bought.",
+      "Connect your new account to Facebook, Twitter and LinkedIn.",
+      "Change your personal settings to match what you liked before.",
+      "Merge your Skype account with the new Microsoft account."
+    ]
+  },
+  "messenger" : {
+    "fullname" : "Messenger",
+    "logo" : "img/messenger_logo.png",
+    "type" : "puid",
+    "does" : "Chat stuff",
+    "uses" : [
+      "Make high-definition video calls and chat face to face with friends and family for free.",
+      "Chat with your Facebook friends, even if they don't use Messenger.",
+      "Chat on your Windows Phone or Android phone.",
+      "See your Messenger buddies in the Messaging and People apps on your Windows 8 devices."
+    ],
+    "todo" : [
+      "Sign in to Messenger with your existing Microsoft account.",
+      "Export your contacts (LINK TO HELP).",
+      "Sign in to Messenger with your new Microsoft account.",
+      "Import your contacts (LINK TO HELP).",
+      "Let your friends know that you’re using a new address."
+    ]
+  },
+  "skydrive" : {
+    "fullname" : "SkyDrive",
+    "logo" : "img/skydrive_logo.png",
+    "type" : "puid",
+    "does" : "Chat stuff",
+    "uses" : [
+      "Get to everything you’ve stored on SkyDrive from anywhere you can get to the web.",
+      "Automatically upload photos and videos you’ve taken on your phone.",
+      "Share files and photos with friends and family."
+    ],
+    "todo" : [
+      "Sign in to SkyDrive using your existing Microsoft account.",
+      "Download everything you’ve saved on SkyDrive to your computer.",
+      "Sign in to SkyDrive using the new Microsoft account.",
+      "Save all the files you’d like to your new SkyDrive account."
+    ]
+  },
+  "music" : {
+    "fullname" : "Xbox Music/Zune",
+    "logo" : "img/zune_logo.png",
+    "type" : "puid",
+    "does" : "Chat stuff",
+    "uses" : [
+      "Listen to unlimited streaming music on your phone, computer, or Xbox.",
+      "Sync your music and video library, playlists and take it with you.",
+      "Buy music or videos with payment options associated with your Microsoft account.",
+      "Keep track of playcounts.",
+      "Rate music."
+    ],
+    "todo" : [
+      "Sign in to Xbox Music using your new or updated Microsoft account.",
+      "Re-buy anything you bought that requires a specific Microsoft account to play (such as videos or movies).",
+      "Let your music friends know you’re using a new account."
+    ]
+  },
+  "email" : {
+    "fullname" : "Email (Hotmail, Outlook.com, Live.com, or MSN.com)",
+    "logo" : "img/hotmail_logo.png",
+    "type" : "puid",
+    "does" : "Chat stuff",
+    "uses" : [
+      "Get your email, contacts, and calendar from any computer with an internet connection, and on most phones."
+    ],
+    "todo" : [
+      "Use it as your primary Microsoft account and change your other accounts to use it, too.",
+      "Rename it to your favorite email account (as long as it’s not another Microsoft email account).",
+      "Link your email account to another Microsoft account.",
+      "Add new email accounts on your Windows devices after you sign in with your Microsoft account."
+    ]
+  }
+}
+
+

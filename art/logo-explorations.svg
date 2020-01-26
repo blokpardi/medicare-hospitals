@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800px"
+   height="600px"
+   id="svg4947"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="New document 13">
+  <defs
+     id="defs4949" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.6"
+     inkscape:cx="390.26521"
+     inkscape:cy="292.86568"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:window-width="1680"
+     inkscape:window-height="987"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4952">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect4848"
+       width="265"
+       height="265"
+       x="177.5"
+       y="149.16667"
+       ry="15"
+       inkscape:export-filename="C:\Users\bill\SkyDrive\Projects\apps\medicare-hospitals\art\cross-35.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       rx="15" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#0000ff;fill-opacity:1;stroke:none"
+       id="path4850"
+       sodipodi:cx="370.5"
+       sodipodi:cy="266"
+       sodipodi:rx="42"
+       sodipodi:ry="39.5"
+       d="m 412.5,266 a 42,39.5 0 1 1 -84,0 42,39.5 0 1 1 84,0 z"
+       transform="matrix(2.65,0,0,2.8177215,-671.82502,-467.8473)"
+       inkscape:export-filename="C:\Users\bill\SkyDrive\Projects\apps\medicare-hospitals\art\cross-35.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 310,199.51658 c -13.57989,0 -24.5125,10.93254 -24.5125,24.5125 l 0,32.87651 -32.87658,-0.33087 c -13.57913,-0.14462 -24.61562,10.60212 -24.76092,24.18125 -0.14461,13.5792 10.68488,24.69853 24.26401,24.84375 l 33.37349,0.33163 0,33.37341 c 0,13.57989 10.93261,24.5125 24.5125,24.5125 13.57996,0 24.5125,-10.93261 24.5125,-24.5125 l 0,-32.87665 32.87651,0.33087 c 13.5792,0.14461 24.61569,-10.60212 24.76099,-24.18133 0.14461,-13.57913 -10.68488,-24.69845 -24.26401,-24.84375 l -33.37349,-0.33087 0,-33.37334 c 0,-13.57996 -10.93254,-24.5125 -24.5125,-24.5125 z"
+       id="rect4870"
+       inkscape:export-filename="C:\Users\bill\SkyDrive\Projects\apps\medicare-hospitals\art\cross-35.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>
